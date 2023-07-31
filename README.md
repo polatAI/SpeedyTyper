@@ -1,8 +1,11 @@
 # SpeedyTyper
 Speedy Typer
 
+
 📝 Typing Speed Test Application 💨
+
 Türkçe:
+
 Bu Python uygulaması, kullanıcının belirli bir metni ne kadar sürede ve ne kadar hızlı yazabildiğini ölçen bir yazma hızı testidir. Kullanıcı, belirtilen metni yazmaya başlamadan önce "Enter" tuşuna basarak yazma sürecini başlatır ve sonunda hızını, doğruluğunu ve hata sayısını görebilir. 🚀
 
 Nasıl Kullanılır 🤔
@@ -19,6 +22,7 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 python main.py
 
 English:
+
 This Python application is a typing speed test that measures how fast and accurately a user can type a specific text. The user initiates the typing process by pressing the "Enter" key before starting to type the provided text and can see the results of their speed, accuracy, and error count at the end. 🚀
 
 How to Use 🤔
